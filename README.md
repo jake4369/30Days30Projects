@@ -8,3 +8,4 @@ https://courses.wesbos.com/
 2 - CSS + JS Clock - 06/07/2022
 3 - Playing with CSS Variables and JS - 07/07/2022
 4 - Array Cardio Day 1 - 08/07/2022
+5 - Flex Panels Image Gallery - 09/07/2022
