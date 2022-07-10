@@ -9,3 +9,4 @@ https://courses.wesbos.com/
 3 - Playing with CSS Variables and JS - 07/07/2022
 4 - Array Cardio Day 1 - 08/07/2022
 5 - Flex Panels Image Gallery - 09/07/2022
+6 - Ajax Type Ahead - 10/07/2022
