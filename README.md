@@ -12,3 +12,4 @@ https://courses.wesbos.com/
 6 - Ajax Type Ahead - 10/07/2022
 7 - Array Cardio Day 2 - 11/07/2022
 8 - Fun with HTML5 Canvas - 12/07/2022
+9 - 14 Must Know Dev Tools Tricks - 13/07/2022
