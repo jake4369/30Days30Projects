@@ -14,3 +14,4 @@ https://courses.wesbos.com/
 8 - Fun with HTML5 Canvas - 12/07/2022
 9 - 14 Must Know Dev Tools Tricks - 13/07/2022
 10 - Hold Shift to Check Multiple Checkboxes - 14/07/2022
+11 - Custom HTML5 Video Player - 15/07/2022
