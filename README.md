@@ -18,3 +18,4 @@ https://courses.wesbos.com/
 12 - Key Sequence Detection (KONAMI CODE) - 16/07/2022
 13 - Slide in on Scroll - 17/07/2022
 14 - Object and Arrays - Reference VS Copy - 18/07/2022
+15 - localStorage and Event Delegation - 19/07/2022
