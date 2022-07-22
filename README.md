@@ -20,3 +20,4 @@ https://courses.wesbos.com/
 14 - Object and Arrays - Reference VS Copy - 18/07/2022
 15 - localStorage and Event Delegation - 19/07/2022
 16 - CSS Text Shadow Mouse Move Effect - 20/07/2022
+17 - Sorting Band Names without articles - 22/07/2022
